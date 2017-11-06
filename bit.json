@@ -1,0 +1,16 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "sc/demo/list": "1"
+    },
+    "structure": {
+        "components": "src/components/{namespace}/{name}",
+        "dependencies": "src/components/.dependencies"
+    },
+    "dist": {
+        "target": "dist"
+    }
+}
