@@ -4,7 +4,7 @@
         "tester": "none"
     },
     "dependencies": {
-        "sc/demo/list": "1"
+        "david.stylable/demo/list": "1"
     },
     "structure": {
         "components": "src/components/{namespace}/{name}",
